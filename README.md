@@ -1,5 +1,5 @@
 # Deep-Learning-Models-CNN-LSTM
-Implementation of two deep learning model CNN and LSTM on CIFAR-10 dataset.
+Implementation of two deep learning models CNN and LSTM on CIFAR-10 dataset.
 
 The aim of this project is to implement the CNN model on a specific train batch (data_batch_1 was chosen at random but due to its size was not incuded) of CIFAR-10. For this purpose we created two files, one for training (TrainTheModel) and one for testing (TestTheModel) the data. More specifically, in the first stage we had to train the model, save it and display on the screen relevant results for the development of the process and 4 random images from each category based on the actual class. In the second step we had to check the model on the test_batch file. Moreover, after loading the test data produced in the previous part we had to present the metrics accuracy, precision, recall, f1-score, as well as the confusion matrix. Finally, we displayed 4 random images for each category, this time, based on what the CNN model predicted.
 
